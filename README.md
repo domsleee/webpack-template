@@ -3,5 +3,6 @@
 boilerplate for webpack projects
 
 ~~~bash
-npm run webpack
+npm run build
+npm run watch
 ~~~
